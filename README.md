@@ -36,7 +36,7 @@ Metas de Cursos Java:
 Tasks para continuar evoluindo:
 
 - [x] Começar a estudar Java
-- [ ] Assista ao curso
+- [ ] Assista aos cursos
 - [ ] Faça anotações
 - [ ] Faça os projetos sozinho
 - [ ] Tire as dúvidas
