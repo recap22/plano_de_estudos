@@ -4,7 +4,7 @@
 
 Este roadmap é voltado para iniciantes que desejam ingressar na área de programação com Java. Os cursos aqui listados são gratuitos e fazem parte da plataforma DIO.me.
 
-Obs:Dentro do mundo do desenvolvimento você pode seguir diversos caminhos. Alguns deles, com Java, estão citados abaixo: Web, Mensageria, teste ...
+Obs: Dentro do mundo do desenvolvimento você pode seguir diversos caminhos. Alguns deles, com Java, estão citados abaixo: Web, Mensageria, teste ...
 
 ![Roadmap Java](https://user-images.githubusercontent.com/108075564/197355961-9920888f-2f8b-4f6a-85f1-97a449f7dae0.png)
 
